@@ -1,0 +1,1 @@
+`define INST_BITS 		32

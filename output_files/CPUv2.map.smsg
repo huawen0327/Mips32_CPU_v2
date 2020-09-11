@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at if_id.v(34): always construct contains both blocking and non-blocking assignments File: E:/Coding/CPU/MIPS32v2/files/if_id.v Line: 34
